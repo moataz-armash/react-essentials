@@ -1,6 +1,7 @@
 # React Essentials
 
-[![React Essentials](https://github.com/moataz-armash/react-essentials/screencapture-moataz-armash-github-io-react-essentials-2024-03-14-02_42_17.png)](https://moataz-armash.github.io/react-essentials/)
+[![React Essentials](https://raw.githubusercontent.com/moataz-armash/react-essentials/main/screencapture-moataz-armash-github-io-react-essentials-2024-03-14-02_42_17.png)](https://moataz-armash.github.io/react-essentials/)
+
 
 React Essentials is a comprehensive toolkit designed to empower developers with essential React components and concepts. This project serves as a foundational library, offering a range of components such as Tabs, Buttons, and dynamic Sections, tailored for rapid development and integration in React-based applications.
 
